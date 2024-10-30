@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @GANGARthedestoryer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I'm Jaasiel Silas
+🔍 Aspiring Software Developer | Intern | Lifelong Learner
 
-<!---
-GANGARthedestoryer/GANGARthedestoryer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently gaining hands-on experience through internships and personal projects. Passionate about solving real-world problems with code and exploring new technologies.
+
+🔧 Technologies & Tools:
+
+Languages: Python, C++, HTML
+Frameworks: React, Django, Boost
+Tools: Git, Docker, VS Code
+
+💼 Current Focus:
+
+).Building projects in web development and data analysis
+).Learning about DevOps practices
+)>Contributing to open-source whenever possible
+
+📫 Let's connect:
+LinkedIn | Email jaasielsaroya5@gmail.com
